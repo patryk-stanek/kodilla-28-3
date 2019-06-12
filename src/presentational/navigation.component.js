@@ -1,5 +1,6 @@
 import React from 'react';
 import { Link } from 'react-router';
+
 import 'bootstrap/dist/css/bootstrap.css';
 // brak podanego w instrukcji kodilli pliku, musiałem również usunąć collapse z rodzica elementu <ul> gdyż nie nawigacja nie wyświetlała sie poprawnie
 // import 'bootstrap/dist/css/bootstrap-theme.css';
