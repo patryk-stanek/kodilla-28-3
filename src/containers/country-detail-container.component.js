@@ -1,6 +1,5 @@
 import React, { Component } from 'react';
 import { connect } from 'react-redux';
-
 import { getCountry } from '../actions/actions-countries';
 import CountryDetails from '../presentational/country-details.component';
 
